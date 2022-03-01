@@ -85,6 +85,10 @@ p {
   color: #ffffff;
 }
 
+.content img {
+  max-height: 200px;
+}
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
